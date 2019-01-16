@@ -16,7 +16,7 @@ use Aws\AwsClient;
  * @method \Aws\Result describeExportConfigurations(array $args = [])
  * @method \GuzzleHttp\Promise\Promise describeExportConfigurationsAsync(array $args = [])
  * @method \Aws\Result describeTags(array $args = [])
- * @method \GuzzleHttp\Promise\Promise describeTagsAsync(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeTagsAsync(array $args = [])hub
  * @method \Aws\Result exportConfigurations(array $args = [])
  * @method \GuzzleHttp\Promise\Promise exportConfigurationsAsync(array $args = [])
  * @method \Aws\Result listConfigurations(array $args = [])
